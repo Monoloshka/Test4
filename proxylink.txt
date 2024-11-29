@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/hysteria2
 https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/tuic
-https://github.com/Surfboardv2ray/TGParse/blob/main/splitted/hysteria
-https://github.com/Surfboardv2ray/TGParse/blob/main/splitted/hy2
+https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/hysteria
+https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/hy2
